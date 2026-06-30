@@ -1,0 +1,6 @@
+{
+  "versao": 2,
+  "mensagem": "Novas placas foram adicionadas, deseja atualizar?",
+  "placas_url": "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
+  "imagens_base_url": "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
+}
