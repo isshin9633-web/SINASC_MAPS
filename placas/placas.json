@@ -1,13 +1,104 @@
 {
-  "versao": 2,
-  "placas": [
-    {
-      "codigo": "TESTE-001",
-      "nome": "Placa Teste",
-      "altura": 0.55,
-      "largura": 0.50,
-      "imagem": "teste-001.jpg",
-      "tipo": "extra"
-    }
-  ]
+    "versao":  2,
+    "placas":  [
+                   {
+                       "codigo":  "096607",
+                       "nome":  "TEJUPÁ 17 KM",
+                       "altura":  1,
+                       "largura":  1.5,
+                       "imagem":  "010-26/imagem1.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "AÇO"
+                   },
+                   {
+                       "codigo":  "095496",
+                       "nome":  "A-12 A 200 m",
+                       "altura":  2,
+                       "largura":  1.75,
+                       "imagem":  "010-26/imagem2.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "codigo":  "095496",
+                       "nome":  "A-22 A 150 m",
+                       "altura":  2,
+                       "largura":  1.75,
+                       "imagem":  "010-26/imagem3.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "5",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "codigo":  "095496",
+                       "nome":  "A-1A A 300 m",
+                       "altura":  2,
+                       "largura":  1.75,
+                       "imagem":  "010-26/imagem4.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "codigo":  "079955",
+                       "nome":  "LIMITE DE MUNICÍPIOS TEJUPÁ PIRAJU",
+                       "altura":  1,
+                       "largura":  2,
+                       "imagem":  "010-26/imagem5.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "AÇO"
+                   },
+                   {
+                       "codigo":  "079955",
+                       "nome":  "LIMITE DE MUNICÍPIOS PIRAJU TEJUPÁ",
+                       "altura":  1,
+                       "largura":  2,
+                       "imagem":  "010-26/imagem6.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "AÇO"
+                   },
+                   {
+                       "codigo":  "079955",
+                       "nome":  "SOB CHUVA REDUZA A VELOCIDADE",
+                       "altura":  1,
+                       "largura":  2,
+                       "imagem":  "010-26/imagem7.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "AÇO"
+                   },
+                   {
+                       "codigo":  "083091",
+                       "nome":  "SÓ ULTRAPASSE COM SEGURANÇA",
+                       "altura":  1,
+                       "largura":  2.5,
+                       "imagem":  "010-26/imagem8.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "AÇO"
+                   },
+                   {
+                       "codigo":  "081708",
+                       "nome":  "SPA 30/287 RODOVIA ANTÔNIO N. FERREIRA",
+                       "altura":  1,
+                       "largura":  2.5,
+                       "imagem":  "010-26/imagem9.jpg",
+                       "ordem_servico":  "010-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
+                   }
+               ]
 }
