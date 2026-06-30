@@ -1,8 +1,8 @@
 {
-    "versao":  3,
+    "versao":  4,
     "placas":  [
                    {
-                       "codigo":  "096607",
+                       "codigo":  "INDICATIVA",
                        "nome":  "TEJUPÁ 17 KM",
                        "altura":  1,
                        "largura":  1.5,
@@ -13,7 +13,7 @@
                        "observacao":  "AÇO"
                    },
                    {
-                       "codigo":  "095496",
+                       "codigo":  "A-12",
                        "nome":  "A-12 A 200 m",
                        "altura":  2,
                        "largura":  1.75,
@@ -24,7 +24,7 @@
                        "observacao":  "ALUMÍNIO"
                    },
                    {
-                       "codigo":  "095496",
+                       "codigo":  "A-22",
                        "nome":  "A-22 A 150 m",
                        "altura":  2,
                        "largura":  1.75,
@@ -35,7 +35,7 @@
                        "observacao":  "ALUMÍNIO"
                    },
                    {
-                       "codigo":  "095496",
+                       "codigo":  "A-1A",
                        "nome":  "A-1A A 300 m",
                        "altura":  2,
                        "largura":  1.75,
@@ -46,7 +46,7 @@
                        "observacao":  "ALUMÍNIO"
                    },
                    {
-                       "codigo":  "079955",
+                       "codigo":  "INDICATIVA",
                        "nome":  "LIMITE DE MUNICÍPIOS TEJUPÁ PIRAJU",
                        "altura":  1,
                        "largura":  2,
@@ -57,7 +57,7 @@
                        "observacao":  "AÇO"
                    },
                    {
-                       "codigo":  "079955",
+                       "codigo":  "INDICATIVA",
                        "nome":  "LIMITE DE MUNICÍPIOS PIRAJU TEJUPÁ",
                        "altura":  1,
                        "largura":  2,
@@ -68,7 +68,7 @@
                        "observacao":  "AÇO"
                    },
                    {
-                       "codigo":  "079955",
+                       "codigo":  "EDUCATIVA",
                        "nome":  "SOB CHUVA REDUZA A VELOCIDADE",
                        "altura":  1,
                        "largura":  2,
@@ -79,7 +79,7 @@
                        "observacao":  "AÇO"
                    },
                    {
-                       "codigo":  "083091",
+                       "codigo":  "EDUCATIVA",
                        "nome":  "SÓ ULTRAPASSE COM SEGURANÇA",
                        "altura":  1,
                        "largura":  2.5,
@@ -90,7 +90,7 @@
                        "observacao":  "AÇO"
                    },
                    {
-                       "codigo":  "081708",
+                       "codigo":  "INDICATIVA",
                        "nome":  "SPA 30/287 RODOVIA ANTÔNIO N. FERREIRA",
                        "altura":  1,
                        "largura":  2.5,
