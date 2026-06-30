@@ -1,6 +1,6 @@
 {
-  "versao": 2,
-  "mensagem": "Novas placas foram adicionadas, deseja atualizar?",
-  "placas_url": "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
-  "imagens_base_url": "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
+    "versao":  3,
+    "mensagem":  "UMA NOVA ORDEM DE SERVIÇO FOI LANÇADA. DESEJA ATUALIZAR? OS 010-26",
+    "placas_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
+    "imagens_base_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
 }
