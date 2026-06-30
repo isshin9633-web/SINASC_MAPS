@@ -1,0 +1,13 @@
+{
+  "versao": 2,
+  "placas": [
+    {
+      "codigo": "TESTE-001",
+      "nome": "Placa Teste",
+      "altura": 0.55,
+      "largura": 0.50,
+      "imagem": "teste-001.jpg",
+      "tipo": "extra"
+    }
+  ]
+}
