@@ -1,6 +1,6 @@
 {
-    "versao":  5,
-    "mensagem":  "NOVAS ORDEM DE SERVIÇOS 010-26 e 011-26",
+    "versao":  6,
+    "mensagem":  "NOVA ORDEM DE SERVIÇO 012-26",
     "placas_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
     "imagens_base_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
 }
