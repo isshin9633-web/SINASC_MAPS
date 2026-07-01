@@ -1,5 +1,5 @@
 {
-    "versao":  5,
+    "versao":  6,
     "placas":  [
                    {
                        "codigo":  "INDICATIVA",
@@ -120,6 +120,78 @@
                        "ordem_servico":  "0011-26",
                        "tipo":  "extra",
                        "quantidade":  "2",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "012-26-1-AUXILIAR",
+                       "codigo":  "AUXILIAR",
+                       "nome":  "INÍCIO DO TRECHO SOB JURISDIÇÃO DO DER",
+                       "altura":  "1,00",
+                       "largura":  "2,25",
+                       "imagem":  "012-26/imagem1.png",
+                       "ordem_servico":  "012-26",
+                       "tipo":  "extra",
+                       "quantidade":  "4",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "012-26-2-AUXILIAR",
+                       "codigo":  "AUXILIAR",
+                       "nome":  "DER-SP 0800 055 55 10",
+                       "altura":  "1,20",
+                       "largura":  "1,75",
+                       "imagem":  "012-26/imagem2.png",
+                       "ordem_servico":  "012-26",
+                       "tipo":  "extra",
+                       "quantidade":  "5",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "012-26-3-AUXILIAR",
+                       "codigo":  "AUXILIAR",
+                       "nome":  "DER-SP 0800 055 55 10",
+                       "altura":  "2,40",
+                       "largura":  "2,25",
+                       "imagem":  "012-26/imagem3.png",
+                       "ordem_servico":  "012-26",
+                       "tipo":  "extra",
+                       "quantidade":  "5",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "012-26-4-R-19",
+                       "codigo":  "R-19",
+                       "nome":  "R-19 60 FISCALIZAÇÃO ELETRÔNICA",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "012-26/imagem4.jpg",
+                       "ordem_servico":  "012-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "012-26-5-INDICATIVA",
+                       "codigo":  "INDICATIVA",
+                       "nome":  "OURINHOS ASSIS MARÍLIA 500 m",
+                       "altura":  "1,20",
+                       "largura":  "1,50",
+                       "imagem":  "012-26/imagem5.jpg",
+                       "ordem_servico":  "012-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "012-26-6-INDICATIVA",
+                       "codigo":  "INDICATIVA",
+                       "nome":  "ECHAPORÃ ASSIS MARÍLIA 500 m",
+                       "altura":  "1,20",
+                       "largura":  "1,50",
+                       "imagem":  "012-26/imagem6.jpg",
+                       "ordem_servico":  "012-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
                        "observacao":  "ALUMÍNIO"
                    }
                ]
