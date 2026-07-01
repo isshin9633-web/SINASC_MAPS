@@ -193,6 +193,30 @@
                        "tipo":  "extra",
                        "quantidade":  "1",
                        "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "013-26-1-R-19",
+                       "codigo":  "R-19",
+                       "nome":  "R-19 80 FISCALIZAÇÃO ELETRÔNICA",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "013-26/imagem1.jpg",
+                       "ordem_servico":  "013-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "013-26-2-R-19",
+                       "codigo":  "R-19",
+                       "nome":  "R-19 60 FISCALIZAÇÃO ELETRÔNICA",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "013-26/imagem2.jpg",
+                       "ordem_servico":  "013-26",
+                       "tipo":  "extra",
+                       "quantidade":  "1",
+                       "observacao":  "ALUMÍNIO"
                    }
                ]
 }
