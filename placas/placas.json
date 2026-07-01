@@ -217,6 +217,30 @@
                        "tipo":  "extra",
                        "quantidade":  "1",
                        "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "015-26-1-INSTITUCIONAL",
+                       "codigo":  "INSTITUCIONAL",
+                       "nome":  "GOVERNO DO ESTADO DE SÃO PAULO",
+                       "altura":  "1,50",
+                       "largura":  "2,20",
+                       "imagem":  "015-26/imagem1.png",
+                       "ordem_servico":  "015-26",
+                       "tipo":  "extra",
+                       "quantidade":  "6",
+                       "observacao":  "ADESIVO"
+                   },
+                   {
+                       "id":  "015-26-2-INSTITUCIONAL",
+                       "codigo":  "INSTITUCIONAL",
+                       "nome":  "GOVERNO DO ESTADO DE SÃO PAULO",
+                       "altura":  "3,00",
+                       "largura":  "2,00",
+                       "imagem":  "015-26/imagem2.png",
+                       "ordem_servico":  "015-26",
+                       "tipo":  "extra",
+                       "quantidade":  "6",
+                       "observacao":  "ADESIVO"
                    }
                ]
 }
