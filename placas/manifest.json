@@ -1,6 +1,6 @@
 {
-    "versao":  9,
-    "mensagem":  "PLACAS ATUALIZADA0S",
+    "versao":  8,
+    "mensagem":  "PLACAS ATUALIZADAS, DENOVO",
     "placas_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
     "imagens_base_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
 }
