@@ -1,5 +1,5 @@
 {
-    "versao":  6,
+    "versao":  8,
     "placas":  [
                    {
                        "codigo":  "INDICATIVA",
@@ -241,6 +241,30 @@
                        "tipo":  "extra",
                        "quantidade":  "6",
                        "observacao":  "ADESIVO"
+                   },
+                   {
+                       "id":  "009-26-1-REGULAMENTAÇÃO",
+                       "codigo":  "REGULAMENTAÇÃO",
+                       "nome":  "R-19 60 FISCALIZAÇÃO ELETRÔNICA",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "009-26/imagem2.jpg",
+                       "ordem_servico":  "009-26",
+                       "tipo":  "extra",
+                       "quantidade":  "10",
+                       "observacao":  "ALUMÍNIO"
+                   },
+                   {
+                       "id":  "009-26-2-REGULAMENTAÇÃO",
+                       "codigo":  "REGULAMENTAÇÃO",
+                       "nome":  "R-19 80 FISCALIZAÇÃO ELETRÔNICA",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "009-26/imagem3.jpg",
+                       "ordem_servico":  "009-26",
+                       "tipo":  "extra",
+                       "quantidade":  "2",
+                       "observacao":  "ALUMÍNIO"
                    }
                ]
 }
