@@ -1,5 +1,5 @@
 {
-    "versao": 13,
+    "versao": 14,
     "placas": [
         {
             "codigo": "INDICATIVA",
@@ -457,6 +457,66 @@
             "tipo": "extra",
             "quantidade": "10",
             "observacao": "AÇO"
+        },
+       {
+          "id": "021-26-1-INDICATIVA",
+          "codigo": "INDICATIVA",
+          "nome": "SP 421 JOSÉ BASSIL DOWER 300M",
+          "altura": "1,00",
+          "largura": "3,00",
+          "imagem": "021-26/3.png",
+          "ordem_servico": "021-26",
+          "tipo": "extra",
+          "quantidade": "1",
+          "observacao": "AÇO"
+        },
+        {
+          "id": "021-26-2-AUXILIAR",
+          "codigo": "AUXILIAR",
+          "nome": "PERÍMETRO URBANO LUTÉCIA",
+          "altura": "1,00",
+          "largura": "2,00",
+          "imagem": "021-26/imagem1.png",
+          "ordem_servico": "021-26",
+          "tipo": "extra",
+          "quantidade": "1",
+          "observacao": "AÇO"
+        },
+        {
+          "id": "021-26-3-AUXILIAR",
+          "codigo": "AUXILIAR",
+          "nome": "RODOVIA PREFEITO JURANDYR FIORI",
+          "altura": "1,00",
+          "largura": "2,00",
+          "imagem": "021-26/imagem2.png",
+          "ordem_servico": "021-26",
+          "tipo": "extra",
+          "quantidade": "2",
+          "observacao": "AÇO"
+        },
+        {
+          "id": "021-26-4-A-18",
+          "codigo": "A-18",
+          "nome": "A-18 150 m",
+          "altura": "2,00",
+          "largura": "1,20",
+          "imagem": "021-26/imagem4.png",
+          "ordem_servico": "021-26",
+          "tipo": "extra",
+          "quantidade": "1",
+          "observacao": "ALUMÍNIO"
+        },
+        {
+          "id": "021-26-5-A-18",
+          "codigo": "A-18",
+          "nome": "A-18 300 m",
+          "altura": "2,00",
+          "largura": "1,20",
+          "imagem": "021-26/imagem5.png",
+          "ordem_servico": "021-26",
+          "tipo": "extra",
+          "quantidade": "1",
+          "observacao": "ALUMÍNIO"
         }
     ]
 }
