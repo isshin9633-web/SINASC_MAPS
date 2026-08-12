@@ -1,6 +1,6 @@
 {
-    "versao":  16,
-    "mensagem":  "ordens de serviços",
+    "versao":  15,
+    "mensagem":  "att",
     "placas_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
     "imagens_base_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
 }
