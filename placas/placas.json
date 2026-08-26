@@ -1,5 +1,5 @@
 {
-    "versao": 15,
+    "versao": 16,
     "placas": [
         {
             "codigo": "INDICATIVA",
@@ -517,6 +517,42 @@
           "tipo": "extra",
           "quantidade": "1",
           "observacao": "ALUMÍNIO"
-        }
+        },
+            {
+      "id": "024-26-1-ADVERTENCIA",
+      "codigo": "ADVERTENCIA",
+      "nome": "NÃO PARE SOBRE A PONTE",
+      "altura": "0,80",
+      "largura": "2,00",
+      "imagem": "024-26/imagem2.png",
+      "ordem_servico": "024-26",
+      "tipo": "extra",
+      "quantidade": "1",
+      "observacao": "aço"
+    },
+    {
+      "id": "024-26-2-ADVERTENCIA",
+      "codigo": "ADVERTENCIA",
+      "nome": "PONTE EM MONITORAMENTO A 500 m",
+      "altura": "1,00",
+      "largura": "2,00",
+      "imagem": "024-26/imagem3.png",
+      "ordem_servico": "024-26",
+      "tipo": "extra",
+      "quantidade": "1",
+      "observacao": "aço"
+    },
+    {
+      "id": "024-26-3-ADVERTENCIA",
+      "codigo": "ADVERTENCIA",
+      "nome": "PONTE EM MONITORAMENTO NÃO PARAR SOBRE A PONTE",
+      "altura": "1,20",
+      "largura": "2,00",
+      "imagem": "024-26/imagem4.png",
+      "ordem_servico": "024-26",
+      "tipo": "extra",
+      "quantidade": "3",
+      "observacao": "aço"
+    }              
     ]
 }
