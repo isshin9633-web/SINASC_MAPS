@@ -733,6 +733,66 @@
             "tipo": "extra",
             "quantidade": "3",
             "observacao": "ALUMÍNIO"
-        }
+        },
+                           {
+                       "id":  "OS 08-11-1-OBRAS",
+                       "codigo":  "OBRAS",
+                       "nome":  "RODOVIA INTERDITADA SP-421 km 36 Trecho: Paraguaçu Pta/Lutécia",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "OS 08-11/imagem1.jpg",
+                       "ordem_servico":  "OS 08-11",
+                       "tipo":  "extra",
+                       "quantidade":  "2",
+                       "observacao":  "aço"
+                   },
+                   {
+                       "id":  "OS 08-11-2-OBRAS",
+                       "codigo":  "OBRAS",
+                       "nome":  "RODOVIA INTERDITADA SP-421 km 36 Trecho: Lutecia / Paraguaçu Pta",
+                       "altura":  "1,20",
+                       "largura":  "3,00",
+                       "imagem":  "OS 08-11/imagem2.jpg",
+                       "ordem_servico":  "OS 08-11",
+                       "tipo":  "extra",
+                       "quantidade":  "3",
+                       "observacao":  "aço"
+                   },
+                   {
+                       "id":  "OS 08-11-3-OBRAS",
+                       "codigo":  "OBRAS",
+                       "nome":  "RODOVIA INTERDITADA SP-421 km 36 ULTIMO RETORNO",
+                       "altura":  "1,00",
+                       "largura":  "3,00",
+                       "imagem":  "OS 08-11/imagem3.jpg",
+                       "ordem_servico":  "OS 08-11",
+                       "tipo":  "extra",
+                       "quantidade":  "3",
+                       "observacao":  "aço"
+                   },
+                   {
+                       "id":  "OS 08-11-4-OBRAS",
+                       "codigo":  "OBRAS",
+                       "nome":  "RODOVIA INTERDITADA",
+                       "altura":  "1,00",
+                       "largura":  "2,00",
+                       "imagem":  "OS 08-11/imagem4.jpg",
+                       "ordem_servico":  "OS 08-11",
+                       "tipo":  "extra",
+                       "quantidade":  "2",
+                       "observacao":  "aço"
+                   },
+                   {
+                       "id":  "OS 08-11-5-OBRAS",
+                       "codigo":  "OBRAS",
+                       "nome":  "ATENÇÃO RODOVIA INTERDITADA",
+                       "altura":  "1,20",
+                       "largura":  "2,00",
+                       "imagem":  "OS 08-11/imagem5.jpg",
+                       "ordem_servico":  "OS 08-11",
+                       "tipo":  "extra",
+                       "quantidade":  "2",
+                       "observacao":  "aço"
+                   }
     ]
 }
