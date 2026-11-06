@@ -1,6 +1,7 @@
 {
-    "versao":  20,
-    "mensagem":  "NOVA ORDEM LANÇADA \"INTERDITAÇÃO DA VIA SP - 421\"",
-    "placas_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
-    "imagens_base_url":  "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/"
+  "versao": 21,
+  "mensagem": "Atualização da OS 027-26",
+  "placas_url": "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/placas.json",
+  "imagens_base_url": "https://raw.githubusercontent.com/isshin9633-web/SINASC_MAPS/main/placas/imagens/",
+  "ordem_servico": "027-26"
 }
