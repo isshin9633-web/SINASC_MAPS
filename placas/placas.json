@@ -1,5 +1,5 @@
 {
-  "versao": 22,
+  "versao": 23,
   "placas": [
     {
       "codigo": "INDICATIVA",
@@ -973,6 +973,66 @@
       "tipo": "extra",
       "quantidade": "2",
       "observacao": "aço"
+    },
+    {
+      "codigo": "OBRAS",
+      "nome": "ATENÇÃO RODOVIA INTERDITADA",
+      "observacao": "AÇO",
+      "quantidade": "1",
+      "altura": "2,00",
+      "largura": "1,20",
+      "imagem": "029-26/7de51792-664-imagem1.png",
+      "ordem_servico": "029-26",
+      "tipo": "extra",
+      "id": "os-029-26-c8e46a6c-7c21-4d87-a5af-375c4264e084"
+    },
+    {
+      "codigo": "OBRAS",
+      "nome": "RODOVIA INTERDITADA",
+      "observacao": "AÇO",
+      "quantidade": "1",
+      "altura": "2,00",
+      "largura": "1,00",
+      "imagem": "029-26/d20d1800-677-imagem2.png",
+      "ordem_servico": "029-26",
+      "tipo": "extra",
+      "id": "os-029-26-f5a79a86-60e3-4377-a910-59c4303d2575"
+    },
+    {
+      "codigo": "OBRAS",
+      "nome": "RODOVIA INTERDITADA SP-303 Km 0 TRECHO: SARUTAIÁ/TIMBURI",
+      "observacao": "ALUMÍNIO",
+      "quantidade": "1",
+      "altura": "3,0",
+      "largura": "1,2",
+      "imagem": "029-26/4a61a4c1-dc5-imagem5.jpg",
+      "ordem_servico": "029-26",
+      "tipo": "extra",
+      "id": "os-029-26-82b05ea9-9304-45c4-b4c5-7734a67ffc91"
+    },
+    {
+      "codigo": "OBRAS",
+      "nome": "RODOVIA INTERDITADA SP-303 Km 0 TRECHO: TIMBURI/SARUTAIÁ",
+      "observacao": "ALUMÍNIO",
+      "quantidade": "2",
+      "altura": "3,0",
+      "largura": "1,2",
+      "imagem": "029-26/484d8e21-e9e-imagem4.jpg",
+      "ordem_servico": "029-26",
+      "tipo": "extra",
+      "id": "os-029-26-46096fd4-b80b-4470-9dad-eb06cc2c8d72"
+    },
+    {
+      "codigo": "OBRAS",
+      "nome": "RODOVIA INTERDITADA SP-303 Km 0 ÚLTIMO RETORNO",
+      "observacao": "ALUMÍNIO",
+      "quantidade": "2",
+      "altura": "3,0",
+      "largura": "1,0",
+      "imagem": "029-26/c2c379c7-eda-imagem3.jpg",
+      "ordem_servico": "029-26",
+      "tipo": "extra",
+      "id": "os-029-26-12ad242e-ab79-44ab-a298-fe707ad79543"
     }
   ]
 }
